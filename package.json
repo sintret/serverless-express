@@ -1,0 +1,8 @@
+{
+  "name": "my-express",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serverless-http": "^1.5.5"
+  }
+}
